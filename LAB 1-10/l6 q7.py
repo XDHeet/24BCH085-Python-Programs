@@ -1,0 +1,5 @@
+print("Name :Heet Ghiya")
+print("Roll No. : 24BCH085")
+tpl = (1,3,19,6,3,21)
+del(tpl)
+print(tpl)
